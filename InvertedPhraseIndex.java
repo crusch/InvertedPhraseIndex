@@ -48,7 +48,7 @@ public class InvertedPhraseIndex extends InvertedIndex{
          }
 
 
-
+//comment
       }
       System.out.println(phraseFrequencies.toString());
 
